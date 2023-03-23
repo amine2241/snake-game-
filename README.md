@@ -1,1 +1,2 @@
 # snake-game-
+Based on the famous nokia snake games I made a copy of it with python using the turtle and time class . It can store the highest score on a text file  and it shows the user the current score  and the highest score made before , it has the same rules as the nokia game meaning that you lose if you hit a wall or your tail and the more you eat the more you increase your size along with your current score.
